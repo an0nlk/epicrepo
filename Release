@@ -1,0 +1,8 @@
+Origin: Epic Sileo Repo
+Label: Local
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64e
+Components: main
+Description: Epic Sileo Repo by Anon LK
