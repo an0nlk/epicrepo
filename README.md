@@ -1,4 +1,4 @@
-# Epic Repo
+# iOS JB Tweaks Repo
 
 A simple iOS jailbreak repository by **Anon LK** – hosting tweaks and packages for Sileo, Zebra, and Cydia.
 
