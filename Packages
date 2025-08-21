@@ -1,3 +1,329 @@
+Package: com.ahmedmakls.ajb
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 832
+Depends: firmware(>= 10.0), mobilesubstrate, preferenceloader, ws.hbang.common, com.spark.libsparkapplist
+Filename: debs/ajb_1.0-3.deb
+Size: 344710
+MD5sum: f9d451127b1859a9481e99a9213b95bd
+SHA1: c2ddf1f1bff682ef5fd1049a3ce62d61c5a49390
+SHA256: f156ae64103df15a45516c9e7ab4d2a17efea8336df8d2bf316a68d8c71aa9a6
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ajbDp
+Description: Hide jailbreak from phone
+Tag: purpose::extension
+Author: ahmedmakls <makhl.2266@yahoo.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ajbDp
+Dev: ahmedmakls
+Icon: file:///Library/PreferenceBundles/AJB.bundle/icon@2x.png
+Name: AJB
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.bypassjb.sniper
+Version: 6.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 648
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.spark.libsparkapplist, ws.hbang.common (>= 1.17)
+Filename: debs/bypassjb_(Sniper)_6.1.deb
+Size: 68854
+MD5sum: 7349f4ccc1ac60d461fd7f67dd5871be
+SHA1: 1ded14aa5251f621da086c6f23370a251e949723
+SHA256: 59344112a253e3ea9bbece7d546d73011fc1cbaff699a90362ccb65f8b6ff53d
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bypassjbDp
+Description: Sniper bypassjb Work in some apps not all applications
+Tag: purpose::extension
+Author: Sniper @DNS_Sys <aeeo@hotmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=bypassjbDp
+Dev: sniper
+Icon: file:///Library/PreferenceBundles/BypassJB.bundle/icon@2x.png
+Name: bypassJB
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.icraze.hestia
+Version: 1.6.5
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 1540
+Depends: mobilesubstrate (>= 0.9.5000), sed, firmware (>= 11.0), com.spark.libsparkapplist, preferenceloader
+Filename: debs/com.icraze.hestia_1.6.5_iphoneos-arm.deb
+Size: 351952
+MD5sum: 375a403de1626e2e69675edae3264f5d
+SHA1: 3a1c03f133ccc855f57f57ee3923c1f637249083
+SHA256: 9d5bce68a6e5d170e7508c05b05ba8e02231ea6949cb86fc04c786d5e412d115
+Section: Tweaks
+Description: Global Jailbreak Detection Bypass
+Author: iCraze
+Name: Hestia
+
+Package: com.julioverne.jailprotect
+Version: 0.0~beta4a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.julioverne.jailprotect_0.0~beta4a_iphoneos-arm.deb
+Size: 53144
+MD5sum: a65c79076e6d0cb5e0d20e2d0d23d0cc
+SHA1: ca99c1526ba4cb74bf8b2a84fbdd9519e444a8bf
+SHA256: c458e3bdf17240241ae7094e050de40826aa10af2afd19f23b1f0e4a1c859959
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: No Substrate Mode Alternative
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.jailprotect
+Icon: file:///Library/PreferenceBundles/JailProtectSettings.bundle/icon@2x.png
+Name: JailProtect
+
+Package: com.kc57.ihide
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Kc57 <repo@kc57.com>
+Depends: firmware (>=9.0), mobilesubstrate (>= 0.9.5000), applist, firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: debs/com.kc57.ihide.deb
+Size: 47098
+MD5sum: 621b59e011c5048b3cfda7fe02038151
+SHA1: 60709969bb8aaca393b652dac58298b1d82fb7eb
+SHA256: 273be2650cb9b88038658a85bf40ec5225249ed97eef97c1c8ff4e61c194e681
+Section: Tweaks
+Homepage: https://repo.kc57.com
+Description: A utility for hiding jailbreak from applications
+Author: Kc57 <repo@kc57.com>
+Depiction: https://repo.kc57.com/depiction/web/com.kc57.ihide.html
+Icon: file:///Library/PreferenceBundles/ihidePrefs.bundle/icon@2x.png
+Moderndepiction: https://repo.kc57.com/depiction/native/com.kc57.ihide.json
+Name: iHide
+Sileodepiction: https://repo.kc57.com/depiction/native/com.kc57.ihide.json
+Tags: compatible_min::ios9.0, compatible_max::ios14.4
+
+Package: com.ryleyangus.liberty
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 608
+Depends: mobilesubstrate, preferenceloader, applist, firmware (<< 11.0)
+Conflicts: com.ryleyangus.libertylite
+Filename: debs/com.ryleyangus.liberty_0.2.10_iphoneos-arm.deb
+Size: 52376
+MD5sum: 46b38c6552543b34cc46c03433456be7
+SHA1: 070e23c288bf3016ac18d8d3f76c18d2d7774b2d
+SHA256: c6573a0a6c5c7338fc232deaef88537664b52817242402e0f622b01022cd43e6
+Section: Tweaks
+Description: A general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Cydia Substrate can be selectively disabled, but this isn't required for many apps.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty
+
+Package: com.ryleyangus.libertylite
+Version: 0.2.10
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 476
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty
+Filename: debs/com.ryleyangus.libertylite_0.2.10_iphoneos-arm.deb
+Size: 46610
+MD5sum: de8005d35c2204becf725c327f68e1e5
+SHA1: 434f034c55b792f51216342afd04ab965a614570
+SHA256: 01574e57f52163b9c776c8ea86b03e511b3dcbc0918cdedef9ceedd71e23a9f8
+Section: Tweaks
+Description: A (lite) general purpose jailbreak detection bypass patch. Use the Liberty entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not supported, so certain apps (PayPal, HSBC HK) will still be problematic.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite
+
+Package: com.ryleyangus.libertylite.beta
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42210
+MD5sum: 37298170685afadc9b2bf7f636dafba7
+SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
+SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
+Section: Tweaks
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite (Beta)
+
+Package: com.thuthuatjb.hidejb
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1929
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 7.0), ws.hbang.common (>= 1.13.1), applist, preferenceloader
+Filename: debs/hidejb_2.1.1.deb
+Size: 179376
+MD5sum: 519e773c3bbfa2af8625c45aba01c552
+SHA1: a199f6eb6ca8529a506047830d1943517742ad3d
+SHA256: 3160dca6db4bc6b9577c4df430a00e82be84f9c0ccdbf80c36859911319e504b
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Description: Bybass jailbreak detection in certain apps
+Tag: purpose::extension, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Author: TTJB Team <admin@thuthuatjb.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=hidejbDp
+Dev: thuthuatjb
+Icon: file:///Library/PreferenceBundles/HideJBPrefs.bundle/icon@2x.png
+Name: HideJB
+
+Package: jp.akusio.kernbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: akusio
+Installed-Size: 380
+Depends: mobilesubstrate, applist, preferenceloader, Firmware(>=13.0)
+Filename: debs/jp.akusio.kernbypass_0.0.1_iphoneos-arm.deb
+Size: 11774
+MD5sum: c2ba3079046c76f5ec3782bfc0b3afcc
+SHA1: 76fb81c10d040f022766a1a314a7a3fa1361b2c6
+SHA256: 0e641ec2b31d9e13cd419cd7df70cb7979089a6911cdaa6087c6230a27a13061
+Section: System
+Description: kernel level jailbreak detection bypass.
+Author: akusio
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Name: KernBypass
+
+Package: jp.akusio.kernbypass-unofficial
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: ichitaso
+Installed-Size: 920
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Filename: debs/jp.akusio.kernbypass-unofficial_0.0.5_iphoneos-arm.deb
+Size: 144922
+MD5sum: 88664e2a63933c4ba6c58a13936d4299
+SHA1: d2eed190bf07e978ec7e78c4f3ae5c39729a91f2
+SHA256: 8ee495c8fff663df9ddeb562b595bd8438fcc86a3a5e83fcbe0bfbf9a6a14f6b
+Section: System
+Homepage: https://ichitaso.com
+Description: kernel level jailbreak detection bypass.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: akusio
+Depiction: https://cydia.ichitaso.com/depiction/kernbypass.html
+Dev: akusio, Misty, ichitaso, XsF1re
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Name: KernBypass (Unofficial)
+
+Package: jp.akusio.kernbypassbeta
+Version: 0.0.3b-1
+Architecture: iphoneos-arm
+Maintainer: Randomblock1 <randomblock1@pm.me>
+Depends: firmware (>=12.0), mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Replaces: jp.akusio.kernbypass
+Filename: debs/jp.akusio.kernbypassbeta.deb
+Size: 189356
+MD5sum: 1f6a20bc120403ee3ac0980eb1e14bf0
+SHA1: acfe764c90262f3f5e4c96f637a2c7faf30f90bc
+SHA256: 95d89dab02c2fb91266d93b79a47ce989783b8f85786ac95625246e491e723a6
+Section: System
+Homepage: https://github.com/XsF1re/KernBypass-Public
+Description: kernel level jailbreak detection bypass
+Author: akusio, Misty, XsF1re
+Depiction: https://randomblock1.com/repo/depiction/web/jp.akusio.kernbypassbeta.html
+Icon: https://randomblock1.com/repo/assets/jp.akusio.kernbypassbeta/icon.png
+Moderndepiction: https://randomblock1.com/repo/depiction/native/jp.akusio.kernbypassbeta.json
+Name: KernBypass Beta
+Sileodepiction: https://randomblock1.com/repo/depiction/native/jp.akusio.kernbypassbeta.json
+Tags: compatible_min::ios12.0, compatible_max::ios14.9
+
+Package: kr.typostudio.tsprotector8
+Version: 1.2.0-20
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: firmware(>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: kr.typostudio.tsprotector.8, kr.typostudio.tsprotector.p, org.thebigboss.tsprotectorp, kr.typostudio.tsprotector.pfb, kr.typostudio.tsprotector8.ft
+Filename: debs/tsprotector8_v1.2.0-20.deb
+Size: 124056
+MD5sum: a2f6c8620e6536621eb22b9f2733a48a
+SHA1: 3ebe59fbb22211eef723c88e2b9590bde1f3e7f8
+SHA256: d2bb2823cf207dc996bf0afe43eda5405edfa01cef578a3a239255710b200116
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tsprotector8Dp
+Description: Protect system from suspicious apps
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Author: typ0s2d10 <typ0s2d10@gmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=tsprotector8Dp
+Dev: typ0s2d10
+Icon: file:///Library/PreferenceBundles/tsProtectorSettings.bundle/tsProtector@2x.png
+Name: tsProtector 8+ (iOS 9 & 8)
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: me.jjolano.shadow
+Version: 3.7.6
+Architecture: iphoneos-arm64
+Maintainer: jjolano
+Installed-Size: 1076
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Suggests: com.ps.injectionfoundation
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Replaces: me.jjolano.shadow.beta
+Provides: me.jjolano.shadow.beta
+Filename: debs/me.jjolano.shadow_3.7.6_iphoneos-arm64.deb
+Size: 100938
+MD5sum: d5d9e73e6fb80918eb95772361f123be
+SHA1: 22c6e9db9a75db1b4faff4292b7343d699e2de86
+SHA256: 52fdf82c814ab67700a51a13de0ca2138b5942b8b2e949493e04614aeef523d4
+Section: System
+Description: A modern jailbreak detection bypass.
+Author: jjolano
+Name: Shadow
+
+Package: me.jjolano.shadow.legacy
+Version: 2.0.23
+Architecture: iphoneos-arm
+Maintainer: jjolano
+Installed-Size: 928
+Depends: firmware (>= 8.0), firmware (<< 15.0), mobilesubstrate, ws.hbang.common, applist
+Recommends: preferenceloader
+Conflicts: me.jjolano.shadow
+Replaces: me.jjolano.shadow
+Provides: me.jjolano.shadow
+Filename: debs/me.jjolano.shadow.legacy_2.0.23_iphoneos-arm.deb
+Size: 112312
+MD5sum: dda219a61465ab759c8cc605d936beb4
+SHA1: b900fcb95a9209877ccea0b8ad136ebe4a69a27a
+SHA256: e66e581165902ffb37d36399db59057b8afa678c5482337ef10d48b6c0fc494e
+Section: System
+Description: Legacy version of Shadow v2 for fallback/historical purposes. Compatible with iOS 8 - 14. No support will be given for this package.
+Author: jjolano
+Name: Shadow (legacy)
+
+Package: moe.misty.kernbypass14
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Misty
+Installed-Size: 1860
+Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
+Depends: mobilesubstrate, preferenceloader
+Conflicts: jp.akusio.kernbypass, com.apple.memecity
+Replaces: jp.akusio.kernbypass-unofficial
+Filename: debs/moe.misty.kernbypass14_0.0.6_iphoneos-arm.deb
+Size: 94066
+MD5sum: 07178316e8f2efd18625285277adaa89
+SHA1: 50fd76d031d2966c676ede8d86e90fafeb94e8b8
+SHA256: 95e4fe3c0eb3a928c22a0ce4f1fa07fd5a21fd9d097eed0a593c7d5cfb8dc780
+Section: System
+Description: kernel level jailbreak detection bypass.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: akusio
+Dev: akusio, Misty, ichitaso, XsF1re
+Icon: file:///Library/PreferenceBundles/KernBypassPrefs.bundle/icon@2x.png
+Name: KernBypass (iOS14)
+
 Package: moe.misty.sslkillswitch3
 Version: 1.5.1+roothide
 Architecture: iphoneos-arm64e
