@@ -1,8 +1,8 @@
-Origin: Epic Sileo Repo
+Origin: JB Repo by AnonLK
 Label: Local
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64e
 Components: main
-Description: Epic Sileo Repo by Anon LK
+Description: JB Tweaks Repo by Anon LK
