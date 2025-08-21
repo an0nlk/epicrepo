@@ -11,10 +11,6 @@ You can add this repo by opening the following URL:
 https://an0nlk.github.io/epicrepo/
 ```
 
-Or tap here if you’re on a jailbroken device with **Sileo** installed:
-
-[➕ Add to Sileo](sileo://source/https://an0nlk.github.io/epicrepo/)
-
 ---
 
 ## 📂 Repository Structure
