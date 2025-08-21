@@ -8,7 +8,7 @@ A simple iOS jailbreak repository by **Anon LK** – hosting tweaks and packages
 You can add this repo by opening the following URL:
 
 ```
-https://an0nlk.github.io/epicrepo/
+https://an0nlk.github.io/ios-tweak-repo/
 ```
 
 ---
@@ -34,4 +34,4 @@ https://an0nlk.github.io/epicrepo/
 
 ## 📌 Repo URL
 **Main URL:**  
-👉 [https://an0nlk.github.io/epicrepo/](https://an0nlk.github.io/epicrepo/)
+👉 [https://an0nlk.github.io/ios-tweak-repo/](https://an0nlk.github.io/ios-tweak-repo/)
